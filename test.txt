@@ -1,1 +1,1 @@
-This is a test file for the merge approach in git. Test from upstream.
+This is a test file for the merge approach in git. Test from upstream. Test from downstream.
